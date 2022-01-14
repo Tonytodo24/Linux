@@ -1,0 +1,4 @@
+There are several files under the "/"file.
+But most of them are connected to system, if you login first, we will enter /home/.
+<ls -l> option will show the directories under the / file.
+bin/ boot/ dev/ etc/ home/ media/ tmp/ mnt/ sbin/ sys/ usr/ var
