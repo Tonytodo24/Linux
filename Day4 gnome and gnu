@@ -3,3 +3,6 @@ Gnome is a free and open-source environment for Unix-like operating system.
 Gnome: GNU Network Object Model Environment
 Gnu: GNU is not UNIX.
 GNU is a Unix-like operating system.
+The program in a Unix-like system that allocates machine resources and talks to the hardware is called the "kernel".
+GNU is typically used with a kernel named Linux.
+This combination is the GNU/Linux operating system.
