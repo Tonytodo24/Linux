@@ -5,3 +5,7 @@ Stabilized version: 20.10.11 / Nov 18,2021.
 License: Apache License 2.0.
 Original Author: Solomon Hykes
 Programming Language: Go.
+
+Info: Docker is a software platform that enables you to quickly build, test and distribute applications.
+Docker packages software into a standardized unit called a container, which includes everything it takes to run software including libraries, system tools, codes and runtime.
+With Docker, you can quickly deploy and scale applications regardless of your environment, also you can be sure that the code will run without problems.
