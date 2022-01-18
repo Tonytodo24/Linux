@@ -9,3 +9,11 @@ Programming Language: Go.
 Info: Docker is a software platform that enables you to quickly build, test and distribute applications.
 Docker packages software into a standardized unit called a container, which includes everything it takes to run software including libraries, system tools, codes and runtime.
 With Docker, you can quickly deploy and scale applications regardless of your environment, also you can be sure that the code will run without problems.
+
+More info: We are familiar with virtual machines such as VMware and VitrtualBox.
+They virtualize and use the entire guest OS on top of the host OS.
+In this way, the operating environment due to them will be heavy and slow.
+Docker is the way to slove this problem.
+
+In Linux, this is called a Linux container and it works light and fast simply because it isolates the process.
+CPU or memory is used only as much as the process needs and the little loss in performance.
