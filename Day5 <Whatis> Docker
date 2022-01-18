@@ -1,3 +1,7 @@
 Operating system: Linux, Windows.
 Developer: Docker Inc.
 Type: Virtualization at the operating system level.
+Stabilized version: 20.10.11 / Nov 18,2021.
+License: Apache License 2.0.
+Original Author: Solomon Hykes
+Programming Language: Go.
