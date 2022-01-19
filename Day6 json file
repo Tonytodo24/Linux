@@ -2,3 +2,4 @@ we can use .json file in linux terminal
 so what is json file?
 JavaScript Object Note (JSON) is a character-based standard format for representing data structured with JavaScript object grammar.
 It is commonly used when transmitting data from a web application (in case of attempting to express it by sending data from the server to the client or vice versa).
+JSON is an open standard format that uses human-readable text to deliver data objects consisting of attribute-value pairs or "key-value pairs".
