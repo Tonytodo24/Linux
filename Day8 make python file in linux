@@ -1,13 +1,14 @@
 First of all, come to /home pwd.
 through the code <...$mkdir python>
 then a directory 'python' will be made.
-<cd python> means change diectory to 'python', it's just made before.
+<cd python> means change diectory to 'python', it's just been made before.
 so it will show as <...@python$ >
 then make a python file.
 <...@python$ mkdir new.py>
+file 'new.py' is made.
 <...@python$ vi new.py>
 you will enter a file with blank.
 you can insert python code in that file such as <print('Hello, world!')>
 save by <:wq>, it will come out autometically.
-run python code which you juse made by code <...@python$ python3 new.py>
+run python code which you just made by code <...@python$ python3 new.py>
 then the code result 'Hello,world!' will show on linux terminal screen.
