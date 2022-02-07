@@ -12,4 +12,3 @@ you can insert python code in that file such as <print('Hello, world!')>
 save by <:wq>, it will come out autometically.
 run python code which you just made by code <...@python$ python3 new.py>
 then the code result 'Hello,world!' will show on linux terminal screen.
-   
